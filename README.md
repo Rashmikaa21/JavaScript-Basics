@@ -4,7 +4,7 @@ This repository contains my small projects, exercises, and practice programs cre
 
 The purpose of this repository is to practise JavaScript concepts by writing code, experimenting with different approaches, and gradually building small projects.
 
-## 📚 Topics I'm Practising
+## 📚 Topics Practiced
 
 - Variables and Data Types
 - Operators
@@ -12,7 +12,9 @@ The purpose of this repository is to practise JavaScript concepts by writing cod
 
 ## 📂 Projects
 
-The repository will be updated regularly as I learn new concepts and create more practice projects.
+- **Calculator** – Short program using `if...else` and `switch` statements.
+- **Marksheet** – Short program using `if...else`, `switch`, and the ternary operator to calculate results and grades.
+- The repository will be updated regularly as I learn new concepts and create more practice projects.
 
 
 ## 🎯 Learning Goal
