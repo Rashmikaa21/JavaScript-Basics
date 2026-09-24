@@ -33,21 +33,47 @@ else
 
 console.log("Grade = ",Grade)
 
+
+
+
+// switch(Grade)
+// {
+//     case "A" :
+//         console.log("Remarks = Execellent");
+//     break
+
+//     case "B" :
+//         console.log("Remarks = Good");
+//     break
+
+//     case "C" :
+//         console.log("Remarks = Average");
+//     break
+
+//     default :
+//         console.log("Remarks = Needs Improvement");
+// }
+
+
+
+let Remarks;
+
 switch(Grade)
 {
     case "A" :
-        console.log("Remarks = Execellent");
+        Remarks = "Execellent";
     break
 
     case "B" :
-        console.log("Remarks = Good");
+        Remarks =  "Good";
     break
 
     case "C" :
-        console.log("Remarks = Average");
+        Remarks = "Average";
     break
 
     default :
-        console.log("Remarks = Needs Improvement");
-}
+        Remarks = "Needs Improvement";
 
+}
+console.log("Remarks =", Remarks)

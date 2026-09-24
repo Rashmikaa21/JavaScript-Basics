@@ -48,7 +48,7 @@ switch(operator1)
 
     case "-":
         console.log(c-d);
-     break;
+    break;
 
      case "*":
         console.log(c*d);
